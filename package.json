@@ -1,0 +1,20 @@
+{
+  "name": "njive"
+, "description": "Node.js wrapper for the Jive API"
+, "version": "0.0.1"
+, "author": "Jonathan Buchanan <jonathan.buchanan@gmail.com> (https://github.com/insin)"
+, "homepage": "https://github.com/insin/njive"
+, "tags": ["jive", "api"]
+, "main": "lib/njive"
+, "repository": {
+    "type": "git"
+  , "url": "https://github.com/insin/njive.git"
+  }
+, "dependencies": {
+    "isomorph": "0.1.x"
+  , "request": "2.9.x"
+  }
+, "devDependencies": {
+    "mocha": "0.10.x"
+  }
+}
