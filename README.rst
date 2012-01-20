@@ -1,8 +1,15 @@
-=====
-njive
-=====
+=====================
+njive |travis_status|
+=====================
+
+.. |travis_status| image:: https://secure.travis-ci.org/insin/njive.png
+   :target: http://travis-ci.org/insin/njive
 
 Node.js wrapper for the `Jive <http://www.jivesoftware.com/>`_ API.
+
+::
+
+   npm install njive
 
 I'm implementing this on an as-needed basis for use in a Node.js webapp
 which helps me administrate and use an internal instance of Jive, which
