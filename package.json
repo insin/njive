@@ -15,7 +15,7 @@
   , "request": "2.9.x"
   }
 , "devDependencies": {
-    "mocha": "0.10.x"
+    "mocha": "1.2.x"
   }
 , "scripts": {
     "test": "mocha"
