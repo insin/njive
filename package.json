@@ -20,4 +20,5 @@
 , "scripts": {
     "test": "mocha"
   }
+, "license": "MIT"
 }
